@@ -62,7 +62,7 @@ import datetime
 myDate = datetime.date(2016, 7, 11)
 print(Employee.isWorkDay(myDate))
 
-# construct instance
+# construct instances
 
 e1 = Employee.fromStr('Jack-Douson-7000')
 e2 = Employee.fromStr('Emily-Woodly-6000')
